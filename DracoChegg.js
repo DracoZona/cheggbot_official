@@ -8,7 +8,7 @@ const client = new Discord.Client();
 
 global.username = 'DracoZona@gmail.com'
 global.password = 'S3bastian'
-global.discordlogin = 'DiscordBotTokenHere'
+global.discordlogin = 'NzU1ODMxODI4NDg4NjUwOTU1.X2JBPg.ylBC85ELBQR-uqIYoG2Qf4sPBWY'
 
 var queue = false;
 
