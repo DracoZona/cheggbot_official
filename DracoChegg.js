@@ -6,9 +6,9 @@ const StealthPlugin = require('puppeteer-extra-plugin-stealth')
 
 const client = new Discord.Client();
 
-global.username = 'jaspervan.marcellones@gmail.com'
+global.username = 'DracoZona@gmail.com'
 global.password = 'S3bastian'
-global.discordlogin = 'NzU1ODMxODI4NDg4NjUwOTU1.X2JBPg.K1HLlDWez-HYd9LY7hlkvn6dpSQ'
+global.discordlogin = 'DiscordBotTokenHere'
 
 var queue = false;
 
